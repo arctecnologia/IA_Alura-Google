@@ -1,4 +1,3 @@
-# IA_Alura-Google
 
 # Documentação do Jogo de conhecimento da Imersão Alura com Google
 
